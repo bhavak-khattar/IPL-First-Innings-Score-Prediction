@@ -13,9 +13,9 @@
 ## Demo
 Link: [https://ipl-first-inning-score-project.herokuapp.com/](https://ipl-first-inning-score-project.herokuapp.com/)
 
-[![](https://imgur.com/a/S8PNh4m.png)](https://ipl-first-inning-score-project.herokuapp.com/)
+[![](https://github.com/bhavak-khattar/IPL-First-Innings-Score-Prediction/blob/master/static/Capture.PNG)](https://ipl-first-inning-score-project.herokuapp.com/)
 
-[![](https://imgur.com/a/UQF9tNO.png)](https://ipl-first-inning-score-project.herokuapp.com/)
+[![](https://github.com/bhavak-khattar/IPL-First-Innings-Score-Prediction/blob/master/static/Capture_1.PNG)](https://ipl-first-inning-score-project.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts the score (in terms of range) of any IPL match. 
