@@ -1,4 +1,4 @@
-# Diabetes Prediction:
+# IPL First Innings Score Prediction:
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
  
 ## Table of Contents
@@ -37,8 +37,8 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ```
 ├── static 
 │   ├── csk.png
-        ipl-favicon.ico
-        mi.jpg
+│   ├── ipl-favicon.ico
+│   ├── mi.jpg
 │   ├── styles.css
 ├── template
 │   ├── index.html
